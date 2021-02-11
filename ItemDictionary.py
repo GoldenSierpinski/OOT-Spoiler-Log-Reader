@@ -47,6 +47,7 @@ itemDictionary = {
     'Progressive Strength Upgrade':         'Goron Bracelet.png',
     'Progressive Scale':                    'Silver Scale.png',
     'Kokiri Sword':                         'Kokiri Sword.png',
+    'Giants Knife':                         'Biggoron\'s Sword.png',
     'Biggoron Sword':                       'Biggoron\'s Sword.png',
     'Deku Shield':                          'Deku Shield.png',
     'Hylian Shield':                        'Hylian Shield.png',
@@ -158,6 +159,7 @@ itemDictionary = {
     'Rupees (20)':                          None,
     'Rupees (5)':                           None,
     'Rupee (1)':                            None,
+    'Rupee (Treasure Chest Game)':          None,
 
     # Ice Traps Tab (sort by location)
     'Ice Trap':                             None,
